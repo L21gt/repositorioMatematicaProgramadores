@@ -1,0 +1,9 @@
+{
+  "carnet":202410445,
+  "nombre": "Haroldo López",
+  "materias":["matematica","programacion","literatura"],
+  "habilidad": {
+    "escuchar": true,
+    "hablar": false
+  }
+}
